@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "title": "Nella Terra Dei Peschi In Fiore",
+    "picture": "images/NellaTerraDeiPeschiInFiore.jpeg",
+    "isbn": "9788842934325",
+    "numpag": "432",
+    "writer": "Melissa Fu",
+    "edition": "2022"
+  },
+  {
+    "id": 1,
+    "title": "La Ladra Di Parole",
+    "picture": "images/LaLadraDiParole.jpeg",
+    "isbn": "9788842932932",
+    "numpag": "368",
+    "writer": "Abi Dare",
+    "edition": "2021"
+  },
+  {
+    "id": 2,
+    "title": "Il Canto Di Calliope",
+    "picture": "images/IlCantoDiCalliope.jpeg",
+    "isbn": "9788845401435",
+    "numpag": "320",
+    "writer": "Natalie Haynes",
+    "edition": "2021"
+  },
+  {
+    "id": 3,
+    "title": "Il Sogno Della Bellezza",
+    "picture": "images/IlSognoDellaBellezza.jpeg",
+    "isbn": "9788867026814",
+    "numpag": "384",
+    "writer": "Lena Johannson",
+    "edition": "2022"
+  },
+  {
+    "id": 4,
+    "title": "Circe",
+    "picture": "images/Circe.jpeg",
+    "isbn": "9788829705320",
+    "numpag": "416",
+    "writer": "Madeline Miller",
+    "edition": "2021"
+  },
+  {
+    "id": 5,
+    "title": "Il Libro Delle Due Vie",
+    "picture": "images/IlLibroDelleDueVie.jpeg",
+    "isbn": "9788893259897",
+    "numpag": "450",
+    "writer": "Jodi Picoult",
+    "edition": "2021"
+  },
+  {
+    "id": 6,
+    "title": "La Custode Dei Peccati",
+    "picture": "images/LaCustodeDeiPeccati.jpeg",
+    "isbn": "9788842932482",
+    "numpag": "400",
+    "writer": "Megan Canpisi",
+    "edition": "2022"
+  },
+  {
+    "id": 7,
+    "title": "Mostri In Terapia",
+    "picture": "images/MostriInTerapia.jpeg",
+    "isbn": "9788842828884",
+    "numpag": "304",
+    "writer": "J. Jagerfeld, M. Strandberg",
+    "edition": "2021"
+  },
+  {
+    "id": 8,
+    "title": "Ragione E Sentimento",
+    "picture": "images/RagioneESentimento.jpeg",
+    "isbn": "9788807900112",
+    "numpag": "356",
+    "writer": "Jana Austen",
+    "edition": "2013"
+  },
+  {
+    "id": 9,
+    "title": "Alice Nel Paese Delle Meraviglie",
+    "picture": "images/AliceNelPaeseDelleMeraviglie.jpeg",
+    "isbn": "9788858013939",
+    "numpag": "142",
+    "writer": "Lewis Carroll",
+    "edition": "2015"
+  },
+  {
+    "id": 10,
+    "title": "Pollyanna",
+    "picture": "images/Pollyanna.jpeg",
+    "isbn": "9788831456357",
+    "numpag": "308",
+    "writer": "Eleanor Porter",
+    "edition": "2020"
+  },
+  {
+    "id": 11,
+    "title": "Cime Tempestose",
+    "picture": "images/CimeTempestose.jpeg",
+    "isbn": "9788807900129",
+    "numpag": "428",
+    "writer": "Emily Bronte",
+    "edition": "2014"
+  },
+  {
+    "id": 12,
+    "title": "Orgoglio E Pregiudizio",
+    "picture": "images/OrgoglioEPregiudizio.jpeg",
+    "isbn": "97888070900846",
+    "numpag": "432",
+    "writer": "Jane Austen",
+    "edition": "2013"
+  },
+  {
+    "id": 13,
+    "title": "1984",
+    "picture": "images/1984.jpeg",
+    "isbn": "9788804668237",
+    "numpag": "321",
+    "writer": "George Orwell",
+    "edition": "2016"
+  },
+  {
+    "id": 14,
+    "title": "La Vita Bugiarda Degli Adulti",
+    "picture": "images/LaVitaBugiardaDegliAdulti.jpeg",
+    "isbn": "9788833571683",
+    "numpag": "336",
+    "writer": "Elena Ferrante",
+    "edition": "2019"
+  },
+  {
+    "id": 15,
+    "title": "Il Ballo Delle Pazze",
+    "picture": "images/IlBalloDellePazze.jpeg",
+    "isbn": "9788833572864",
+    "numpag": "181",
+    "writer": "Victoria Mas",
+    "edition": "2021"
+  },
+  {
+    "id": 16,
+    "title": "Storia Di Due Anime",
+    "picture": "images/StoriaDiDueAnime.jpeg",
+    "isbn": "9788842932581",
+    "numpag": "400",
+    "writer": "Alex Landragin",
+    "edition": "2020"
+  },
+  {
+    "id": 17,
+    "title": "Il Circo Della Notte",
+    "picture": "images/IlCircoDellaNotte.jpeg",
+    "isbn": "9791259670403",
+    "numpag": "450",
+    "writer": "Erin Morgenstern",
+    "edition": "2021"
+  },
+  {
+    "id": 18,
+    "title": "I Promessi Sposi",
+    "picture": "images/IPromessiSposi.jpeg",
+    "isbn": "9788817076968",
+    "numpag": "1328",
+    "writer": "Alessandro Manzoni",
+    "edition": "2014"
+  },
+  {
+    "id": 19,
+    "title": "La Divina Commedia",
+    "picture": "images/DivinaCommedia.jpeg",
+    "isbn": "9788817018012",
+    "numpag": "654",
+    "writer": "Dante Alighieri",
+    "edition": "2007"
+  }
+]
